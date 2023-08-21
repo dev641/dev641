@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/romikarai/romikarai/blob/main/banner.png)
+![MasterHead](https://github.com/dev641/dev641/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Devashish</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
