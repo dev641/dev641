@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev641&label=Profile%20views&color=0e75b6&style=flat" alt="dev641" /> </p>
-- 🌱 I’m currently learning  <strong>JavaScript, Reactjs, Java Springboot</strong>
+- 🌱 I’m currently learning  <strong> Reactjs, Java Springboot</strong>
 
 - 💬 Ask me about **HTML,CSS, Java, Python, Reactjs Node Js**
 
