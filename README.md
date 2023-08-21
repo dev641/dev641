@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Devashish.01.01.01@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact: **I use tabs over spaces**
 <br>
 <br>
 <br>
